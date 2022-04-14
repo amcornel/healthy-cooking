@@ -64,3 +64,9 @@ li a:hover {
 .active {
     border-bottom: 2px solid #2f6c8c;
 }
+
+#hero-image     {
+    height: 1000px;
+    width: 100%;
+    background: url(../img/pexels-daria-shevtsova-1508666.jpg);
+}
