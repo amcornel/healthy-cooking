@@ -1,3 +1,11 @@
-body {
-    font-family: Chalkduster;
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+header {
+    font-family: 'Dancing Script', cursive;
+    font-weight: 700;
 }
