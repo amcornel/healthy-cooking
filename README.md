@@ -22,3 +22,9 @@ The Visitor will find 4 sections in the Navigation bar.
 3. Section called Desserts will open in a new page and will provide the same informations as the Starter Section.
 
 4. Section called Snacks will open in a new page and will provide the same informations as the Starter Section.
+
+
+
+Credits:
+
+Hero Image link: https://www.pexels.com/photo/variety-of-vegetables-on-display-1508666/
