@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anek+Gujarati:wght@800&display=swap');
 
 * {
     margin: 0;
@@ -6,6 +6,29 @@
     border: none;
 }
 header {
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Anek Gujarati', sans-serif;
     font-weight: 700;
+    color: #112A46
+}
+
+body    {
+    font-family: 'Anek Gujarati', sans-serif;
+    font-weight: 300;
+    color: #112A46;
+
+}
+
+/* headings and Logo */
+
+h1,h2{
+    font-family: 'Anek Gujarati', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 6px;
+    color: #112A46;
+
+}
+
+#logo   {
+    float: left;
+    font-size: 290%;
 }
