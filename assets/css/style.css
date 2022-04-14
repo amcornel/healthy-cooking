@@ -8,7 +8,8 @@
 header {
     font-family: 'Anek Gujarati', sans-serif;
     font-weight: 700;
-    color: #112A46
+    color: #112A46;
+    background-color: #ACE6E0;
 }
 
 body    {
@@ -22,7 +23,6 @@ body    {
 
 h1,h2{
     font-family: 'Anek Gujarati', sans-serif;
-    text-transform: uppercase;
     letter-spacing: 6px;
     color: #112A46;
 
@@ -31,4 +31,36 @@ h1,h2{
 #logo   {
     float: left;
     font-size: 290%;
+    background-color: #ACE6E0;
+}
+#menu   {
+    font-size: 145%;
+    letter-spacing: 6px;
+}
+#menu, #logo    {
+    line-height: 85px;
+}
+
+#menu li    {
+    float: right;
+    list-style-type: none;
+    margin-right: 45px;
+    background-color: #ACE6E0;
+}
+
+#menu a     {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* Change the link color to #B3F7F0 (black) on hover */
+
+li a:hover {
+  background-color: #B3F7F0;
+}
+
+/* Add an Active/Current Navigation Link*/
+
+.active {
+    border-bottom: 2px solid #2f6c8c;
 }
