@@ -26,7 +26,8 @@ h1, h2   {
 #logo {
     float: left;
     font-size: 300%;
-    background-color: #ACE6E0;
+    color: #119386;
+    margin-left: 30px;
 }
 
 
@@ -45,7 +46,7 @@ h1, h2   {
     float: right;
     list-style-type: none;
     margin-right: 30px;
-    background-color: #ACE6E0;
+    color: #119386;
 }
 
 #menu a {
@@ -72,7 +73,7 @@ h1, h2   {
 }
 
 #cover-text, #cover-text  h2 {
-    color: #ACE6E0;
+    color: #e4efee;
 }
 
 #hero-image {
@@ -108,7 +109,7 @@ h1, h2   {
     height: 220px;
 
     padding-top: 50px;
-    padding-left: 150px;
+    padding-left: 15px;
 
     background-color: rgb(47, 108, 140);
 
