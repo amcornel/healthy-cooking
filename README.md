@@ -28,3 +28,7 @@ The Visitor will find 4 sections in the Navigation bar.
 Credits:
 
 Hero Image link: https://www.pexels.com/photo/variety-of-vegetables-on-display-1508666/
+
+
+Running HTML Checker  took Screen shot 17/04/2022
+
