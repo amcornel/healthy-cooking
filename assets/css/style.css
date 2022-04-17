@@ -61,18 +61,24 @@ h1, h2   {
     border-bottom: 2px solid #2f6c8c;
 }
 
-/* hero image */
+/* hero image and over text*/
 
 #hero-outer {
     height: 600px;
     width: 100%;
     overflow: hidden;
+
+    position: relative;
+}
+
+#cover-text, #cover-text  h2 {
+    color: #ACE6E0;
 }
 
 #hero-image {
     height: 600px;
     width: 100%;
-    background: url('../img/resized-hero-image.png') no-repeat center center;
+    background: url('../img/resized-hero-image.jpg') no-repeat center center;
 
 
  /* animates zoom hero image */
@@ -92,3 +98,24 @@ h1, h2   {
             transform: scale(1.1);
     }
 }
+
+#cover-text     {
+    font-size: 150%;
+    font-family: 'Anek Gujarati', sans-serif;
+    letter-spacing: 6px;
+
+    width: 330px;
+    height: 220px;
+
+    padding-top: 50px;
+    padding-left: 150px;
+
+    background-color: rgb(47, 108, 140);
+
+    bottom: 50px;
+    right: 150px;
+
+    position: absolute;
+}
+
+
