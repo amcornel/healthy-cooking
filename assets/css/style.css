@@ -6,13 +6,6 @@
     border: none;
 }
 
-header {
-    font-family: 'Anek Gujarati', sans-serif;
-    font-weight: 700;
-    color: #112A46;
-    background-color: #ACE6E0;
-}
-
 body {
     font-family: 'Anek Gujarati', sans-serif;
     font-weight: 300;
@@ -22,23 +15,8 @@ body {
 
 /* headings and Logo */
 
-@media all and (min-width: 60em) {
-    .menu-item {
-        width: auto;
-    }
 
-    .logo {
-        order: 0;
-    }
-
-    .menu-item {
-        order: 1;
-    }
-
-}
-
-h1,
-h2 {
+h1, h2   {
     font-family: 'Anek Gujarati', sans-serif;
     letter-spacing: 6px;
     color: #112A46;
@@ -49,17 +27,17 @@ h2 {
     float: left;
     font-size: 300%;
     background-color: #ACE6E0;
-    width: auto;
-    letter-spacing: 6px;
 }
 
-#menu {
+
+/* navigation links*/
+
+#menu   {
     font-size: 145%;
     letter-spacing: 6px;
 }
 
-#menu,
-#logo {
+#menu, #logo    {
     line-height: 85px;
 }
 
@@ -68,8 +46,6 @@ h2 {
     list-style-type: none;
     margin-right: 30px;
     background-color: #ACE6E0;
-    align-items: stretch;
-
 }
 
 #menu a {
@@ -77,20 +53,42 @@ h2 {
     color: inherit;
 }
 
-/* Change the link color to #B3F7F0 (black) on hover */
-
-li a:hover {
+#menu a:hover {
     background-color: #B3F7F0;
 }
-
-/* Add an Active/Current Navigation Link*/
 
 .active {
     border-bottom: 2px solid #2f6c8c;
 }
 
+/* hero image */
+
+#hero-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+}
+
 #hero-image {
     height: 600px;
     width: 100%;
-    background: url('../img/resized-hero-image.jpg') no-repeat center center;
+    background: url('../img/resized-hero-image.png') no-repeat center center;
+
+
+ /* animates zoom hero image */
+
+    animation-name: hero-zoom;
+    animation-duration: 7s;
+    animation-fill-mode: forwards;
+}
+
+/* creates the level of zoom for hero image*/
+
+@keyframes hero-zoom    {
+    from{
+            transform: scale(1);
+}
+    to{
+            transform: scale(1.1);
+    }
 }
