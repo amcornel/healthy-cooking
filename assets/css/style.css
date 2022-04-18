@@ -136,20 +136,6 @@ h2 {
     background-color: blue;
 }
 
-/* Where to buy*/
-
-#where {
-    height: 600px;
-    
-}
-
-#where-text {
-    padding-top: 30px;
-    width: 100%;
-    float: left;
-    background-color: red;
-}
-
 /* how to prepare */
 
 
@@ -162,5 +148,19 @@ h2 {
     width: 100%;
     float: left;
     background-color: green;
+}
+
+/* Where to buy*/
+
+#where {
+    height: 600px;
+    
+}
+
+#where-text {
+    padding-top: 30px;
+    width: 100%;
+    float: left;
+    background-color: red;
 }
 
