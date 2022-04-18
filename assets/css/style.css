@@ -16,7 +16,8 @@ body {
 /* headings and Logo */
 
 
-h1, h2   {
+h1,
+h2 {
     font-family: 'Anek Gujarati', sans-serif;
     letter-spacing: 6px;
     color: #112A46;
@@ -33,12 +34,13 @@ h1, h2   {
 
 /* navigation links*/
 
-#menu   {
+#menu {
     font-size: 145%;
     letter-spacing: 6px;
 }
 
-#menu, #logo    {
+#menu,
+#logo {
     line-height: 85px;
 }
 
@@ -72,7 +74,8 @@ h1, h2   {
     position: relative;
 }
 
-#cover-text, #cover-text  h2 {
+#cover-text,
+#cover-text h2 {
     color: #e4efee;
 }
 
@@ -82,7 +85,7 @@ h1, h2   {
     background: url('../img/resized-hero-image.jpg') no-repeat center center;
 
 
- /* animates zoom hero image */
+    /* animates zoom hero image */
 
     animation-name: hero-zoom;
     animation-duration: 7s;
@@ -91,16 +94,17 @@ h1, h2   {
 
 /* creates the level of zoom for hero image*/
 
-@keyframes hero-zoom    {
-    from{
-            transform: scale(1);
-}
-    to{
-            transform: scale(1.1);
+@keyframes hero-zoom {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.1);
     }
 }
 
-#cover-text     {
+#cover-text {
     font-size: 150%;
     font-family: 'Anek Gujarati', sans-serif;
     letter-spacing: 6px;
@@ -111,7 +115,7 @@ h1, h2   {
     padding-top: 50px;
     padding-left: 15px;
 
-    background-color: rgb(47, 108, 140);
+    background-color: rgb(0, 102, 102);
 
     bottom: 50px;
     right: 150px;
@@ -119,4 +123,44 @@ h1, h2   {
     position: absolute;
 }
 
+/*Idea*/
+
+#idea {
+    height: 600px;
+}
+
+#idea-text {
+    padding-top: 30px;
+    width: 100%;
+    float: left;
+    background-color: blue;
+}
+
+/* Where to buy*/
+
+#where {
+    height: 600px;
+    
+}
+
+#where-text {
+    padding-top: 30px;
+    width: 100%;
+    float: left;
+    background-color: red;
+}
+
+/* how to prepare */
+
+
+#how {
+    height: 600px;
+}
+
+#how-text    {
+    padding-top: 30px;
+    width: 100%;
+    float: left;
+    background-color: green;
+}
 
