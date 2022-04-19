@@ -127,7 +127,7 @@ h2 {
 /*Idea*/
 
 #idea {
-    height: 600px;
+    height: 330px;
     text-align: center;
     
 }
@@ -148,7 +148,7 @@ h2 {
 
 
 #how {
-    height: 600px;
+    height: 330px;
 }
 
 #how-text    {
@@ -161,7 +161,7 @@ h2 {
 /* Where to buy*/
 
 #where {
-    height: 600px;
+    height: 330px;
     
 }
 
@@ -172,3 +172,25 @@ h2 {
     background-color: red;
 }
 
+/* Footer*/
+
+footer  {
+    height: 100px;
+}
+
+.social-networks   {
+    text-align: center;
+
+}
+
+.social-networks  > li  {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 150%;
+    margin: 2%;
+    padding: 6%;
+    color: #2f6c8c;
+    background-color: white;
+}
