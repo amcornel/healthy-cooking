@@ -16,11 +16,18 @@ body {
 /* headings and Logo */
 
 
-h1, h2  {
+h1,
+h2 {
     font-family: 'Anek Gujarati', sans-serif;
     letter-spacing: 6px;
     color: #2f6c8c;
     text-align: center;
+
+}
+
+h1 h2 {
+    background-color: #2f6c8c;
+    color: white;
 
 }
 
@@ -74,7 +81,8 @@ h1, h2  {
     position: relative;
 }
 
-#cover-text h2, h3  {
+#cover-text h2,
+h3 {
     color: white;
     text-align: center;
 }
@@ -104,7 +112,7 @@ h1, h2  {
     }
 }
 
-#cover-text  {
+#cover-text {
     font-size: 150%;
     font-family: 'Anek Gujarati', sans-serif;
     letter-spacing: 6px;
@@ -126,63 +134,82 @@ h1, h2  {
 /*Idea*/
 
 #idea {
-    height: 330px;
+    height: auto;
     text-align: center;
-    
+    width: 100%;
 }
-#idea h1  {
-    text-align: center;
-    color: #2f6c8c;
+
+#idea h2 {
+    color: white;
+    background-color: #2f6c8c;
 }
 
 #idea-text {
-    padding-top: 30px;
-    width: 100%;
-    float: left;
+    padding: 35px;
+    width: auto;
     text-align: center;
-    background-color: blue;
+    background-color: #B3F7F0;
+    font-size: 150%;
+
 }
 
 /* how to prepare */
 
-
 #how {
-    height: 330px;
+    height: auto;
+    text-align: center;
+    width: 100%;
 }
 
-#how-text    {
+
+#how h2 {
+    color: white;
+    background-color: #2f6c8c;
+}
+
+#how-text {
     padding-top: 30px;
-    width: 100%;
+    width: auto;
     text-align: center;
-    background-color: green;
+    background-color: #B3F7F0;
+    font-size: 150%;
 }
 
 /* Where to buy*/
 
 #where {
-    height: 330px;
-    
+    height: auto;
+    text-align: center;
+    width: 100%;
+
+}
+
+#where h2 {
+    color: white;
+    background-color: #2f6c8c;
 }
 
 #where-text {
     padding-top: 30px;
-    width: 100%;
+    width: auto;
     text-align: center;
-    background-color: red;
+    background-color: #b3f7f0;
+    font-size: 150%;
 }
 
 /* Footer*/
 
-footer  {
+footer {
     height: 75px;
+    width: 100%;
 }
 
-.social-networks   {
+.social-networks {
     text-align: center;
 
 }
 
-.social-networks  > li  {
+.social-networks>li {
     display: inline;
 }
 
