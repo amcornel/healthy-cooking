@@ -16,8 +16,7 @@ body {
 /* headings and Logo */
 
 
-h1,
-h2 {
+h1, h2  {
     font-family: 'Anek Gujarati', sans-serif;
     letter-spacing: 6px;
     color: #2f6c8c;
@@ -75,9 +74,8 @@ h2 {
     position: relative;
 }
 
-#cover-text,
-#cover-text h2 {
-    color: #e4efee;
+#cover-text, h2     {
+    color: #2f6c8c;
 }
 
 #hero-image {
@@ -105,7 +103,7 @@ h2 {
     }
 }
 
-#cover-text {
+#cover-text  {
     font-size: 150%;
     font-family: 'Anek Gujarati', sans-serif;
     letter-spacing: 6px;
@@ -175,7 +173,7 @@ h2 {
 /* Footer*/
 
 footer  {
-    height: 100px;
+    height: 75px;
 }
 
 .social-networks   {
@@ -189,8 +187,8 @@ footer  {
 
 .social-networks i {
     font-size: 150%;
-    margin: 2%;
-    padding: 6%;
+    margin: 1%;
+    padding: 4%;
     color: #2f6c8c;
     background-color: white;
 }
