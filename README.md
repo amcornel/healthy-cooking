@@ -21,13 +21,13 @@ The Visitor will find 3sections in the Navigation bar.
 
 3. Section called Desserts will open in a new page and will provide the same informations as the Starter Section.
 
-4. Section called Snacks will open in a new page and will provide the same informations as the Starter Section.
+
 
 
 
 Credits:
 
-Hero Image link: https://www.pexels.com/photo/variety-of-vegetables-on-display-1508666/
+
 
 
 Running HTML Checker  took Screen shot 17/04/2022
@@ -35,6 +35,9 @@ Running HTML Checker  took Screen shot 17/04/2022
 edit layout for the Page and edit it validate HTML and CSS with W3C Validators 
 
 took Screen Shots 18.04.2022
+
+add new hero Image taken by myself
+
 
 
 
