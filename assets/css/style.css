@@ -20,7 +20,8 @@ h1,
 h2 {
     font-family: 'Anek Gujarati', sans-serif;
     letter-spacing: 6px;
-    color: #112A46;
+    color: #2f6c8c;
+    text-align: center;
 
 }
 
@@ -82,7 +83,7 @@ h2 {
 #hero-image {
     height: 600px;
     width: 100%;
-    background: url('../img/resized-hero-image.jpg') no-repeat center center;
+    background: url('../img/hero-image2.webp') no-repeat center center;
 
 
     /* animates zoom hero image */
@@ -127,12 +128,19 @@ h2 {
 
 #idea {
     height: 600px;
+    text-align: center;
+    
+}
+#idea h1    {
+    text-align: center;
+    color: #2f6c8c;
 }
 
 #idea-text {
     padding-top: 30px;
     width: 100%;
     float: left;
+    text-align: center;
     background-color: blue;
 }
 
@@ -146,7 +154,7 @@ h2 {
 #how-text    {
     padding-top: 30px;
     width: 100%;
-    float: left;
+    text-align: center;
     background-color: green;
 }
 
@@ -160,7 +168,7 @@ h2 {
 #where-text {
     padding-top: 30px;
     width: 100%;
-    float: left;
+    text-align: center;
     background-color: red;
 }
 

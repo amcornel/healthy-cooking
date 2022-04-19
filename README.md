@@ -8,7 +8,7 @@ it provides Information on where to get the Ingredients the cheapest and how to 
 
 FEATURES
 
-The Visitor will find 4 sections in the Navigation bar.
+The Visitor will find 3sections in the Navigation bar.
 
 1. Section called Starter will open in a new page which will provide 
 
@@ -31,4 +31,10 @@ Hero Image link: https://www.pexels.com/photo/variety-of-vegetables-on-display-1
 
 
 Running HTML Checker  took Screen shot 17/04/2022
+
+edit layout for the Page and edit it validate HTML and CSS with W3C Validators 
+
+took Screen Shots 18.04.2022
+
+
 
