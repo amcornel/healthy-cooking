@@ -74,8 +74,9 @@ h1, h2  {
     position: relative;
 }
 
-#cover-text, h2     {
-    color: #2f6c8c;
+#cover-text h2, h3  {
+    color: white;
+    text-align: center;
 }
 
 #hero-image {
@@ -129,7 +130,7 @@ h1, h2  {
     text-align: center;
     
 }
-#idea h1    {
+#idea h1  {
     text-align: center;
     color: #2f6c8c;
 }
