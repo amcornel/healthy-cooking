@@ -260,6 +260,17 @@ h3 {
     background: url('../img/dessert1.png') no-repeat center center;
 }
 
+/* Contact page*/
+
+h1{
+    font-size: 300%;
+}
+
+#contact-details  {
+    font-size: 300%;
+    text-align: center;
+}
+
 
 
 
