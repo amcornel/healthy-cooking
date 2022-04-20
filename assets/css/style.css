@@ -16,8 +16,7 @@ body {
 /* headings and Logo */
 
 
-h1,
-h2 {
+h1, h2 {
     font-family: 'Anek Gujarati', sans-serif;
     letter-spacing: 6px;
     color: #000000;
@@ -25,10 +24,9 @@ h2 {
 
 }
 
-h1 h2 {
+h1, h2 {
     font-size: 175%;
-    background-color: #119386;
-    color: white;
+    color: #000000;
 
 }
 
@@ -75,7 +73,7 @@ h1 h2 {
 /* hero image and over text*/
 
 #hero-outer {
-    height: 500px;
+    height: auto;
     width: 100%;
     overflow: hidden;
 
@@ -135,7 +133,7 @@ h3 {
 /*Idea*/
 
 #idea {
-    height: 300px;
+    height: auto;
     text-align: center;
     width: 100%;
 }
@@ -156,7 +154,7 @@ h3 {
 /* how to prepare */
 
 #how {
-    height: 300px;
+    height: auto;
     text-align: center;
     width: 100%;
 }
@@ -177,7 +175,7 @@ h3 {
 /* Where to buy*/
 
 #where {
-    height: 300px;
+    height: auto;
     text-align: center;
     width: 100%;
 
@@ -239,33 +237,12 @@ h3 {
     font-size: 300%;
 }
 
-#ingredients {
-    font-size: 120%;
-    width: 100%;
-    padding: 30px;
-    float: left;
-    margin-left: 20px;
-}
-
 #mains-image  {
     height: 600px;
     width: 100%;
     padding: 30px;
     margin-right: 30px;
     background: url('../img/mains.png') no-repeat center center;
-}
-#prepare    {
-    font-size: 120%;
-    width: 100%;
-    padding: 30px;
-    float: right;
-    margin-right: 30px;
-}
-
-#prepare-text   {
-    font-size: 120%;
-    width: 100%;
-    text-align: center;
 }
 
 
@@ -275,34 +252,12 @@ h3 {
 #dessert-title  {
     font-size: 300%;
 }
-
-#ingredients {
-    font-size: 120%;
-    width: 100%;
-    padding: 30px;
-    float: left;
-    margin-left: 20px;
-}
-
 #dessert-image  {
     height: 500px;
     width: 100%;
     padding: 30px;
     margin-right: 30px;
     background: url('../img/dessert1.png') no-repeat center center;
-}
-#prepare    {
-    font-size: 120%;
-    width: 100%;
-    padding: 30px;
-    float: right;
-    margin-right: 30px;
-}
-
-#prepare-text   {
-    font-size: 120%;
-    width: 100%;
-    text-align: center;
 }
 
 
@@ -311,13 +266,15 @@ h3 {
 
 /* Footer*/
 
-footer {
-    height: 50px;
+footer  {
+    height: 30px;
     width: 100%;
+  
 }
 
 .social-networks {
     text-align: center;
+    background-color: #119386;
 
 }
 
@@ -329,6 +286,5 @@ footer {
     font-size: 200%;
     margin: 1%;
     padding: 4%;
-    color: #000000;
-    background-color: white;
+    color: #ffffff;
 }
