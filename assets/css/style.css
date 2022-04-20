@@ -20,7 +20,7 @@ h1,
 h2 {
     font-family: 'Anek Gujarati', sans-serif;
     letter-spacing: 6px;
-    color: #119386;
+    color: #000000;
     text-align: center;
 
 }
@@ -35,7 +35,7 @@ h1 h2 {
 #logo {
     float: left;
     font-size: 300%;
-    color: #119386;
+    color: #000000;
     margin-left: 40px;
 }
 
@@ -56,7 +56,7 @@ h1 h2 {
     float: right;
     list-style-type: none;
     margin-right: 30px;
-    color: #119386;
+    color: #000000;
 }
 
 #menu a {
@@ -215,6 +215,6 @@ footer {
     font-size: 200%;
     margin: 1%;
     padding: 4%;
-    color: #119386;
+    color: #000000;
     background-color: white;
 }
