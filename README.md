@@ -39,9 +39,8 @@ Affordable Healthy Cooking is a web page that will help viewers
     Homepage Image
 
             The Homepage Image displays tasty, healthy food. It shows the ingredients used in the recipes. 
-            It is the central point on the page.
-
-![Hero-Image](assets/img/hero-image2.webp)
+            It is the central point on the page and has a zoom-in feature to make it more attractive to the viewer
+attractivemage](assets/img/hero-image2.webp)
 
 
     Eat Healthy Section
@@ -70,16 +69,36 @@ The Footer contains Social Media Links.
 ### Starterpage
 
 The Starter page provides a picture of the Starter and an Ingredient List and how to prepare
-The Picture is the central point with the ingredient list on the left Site.
-The Instructions on how to prepare are placed underneath.
 
-![Starter Page Image]()
+The Picture is the central point.
+
+The Instructions on how to prepare are placed underneath, and the ingredient list is on the left Site.
+
+![Starter Page Image](assets/img/starter-page-image.webp)
 
 
 
 ### Mainspage
 
+The Mains page provides a picture of the Mains and an Ingredient List and how to prepare
+
+The Picture is the central point.
+
+The Instructions on how to prepare are placed underneath, and the ingredient list is on the left Site.
+
+![Mains Page Image](assets/img/mains-page-image.webp)
+
+
+
 ### Dessertpage
+
+The Dessert page provides a picture of the Dessert and an Ingredient List and how to prepare
+
+The Picture is the central point.
+
+The Instructions on how to prepare are placed underneath, and the ingredient list is on the left Site.
+
+![Dessert Page Image](assets/img/dessert-page-image.webp)
 
 ### Contactpage
 
