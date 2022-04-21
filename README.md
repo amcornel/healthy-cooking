@@ -137,7 +137,7 @@ The Company contact details are listed underneath that form
 ## Google Developer Tools Testing
 
 
-                check Accebilty with Lighthouse
+                check Accessibility with Lighthouse
 
 
 ![Lighthouse Testresult](assets/img/lighthouse-result.webp)
@@ -200,11 +200,11 @@ The Website was deployed on the 21.04.2022 with Github to GitHub Pages
 
         GitHub Docs for basic README.md commands
 
-        README template Love Running for basic structure of README.md
+        README template Love Running for the basic structure of README.md
 
         https://tinypng.com/ for compressing Pictures
 
-        https://w3schools.com  how to section provided essential for newsletter form
+        https://w3schools.com  how to section provided parts of the code for the newsletter form
 
 
 ## Media
@@ -213,7 +213,7 @@ The Website was deployed on the 21.04.2022 with Github to GitHub Pages
 
         I produced all the Media.
 
-        Pictures were taken with iPhone 13 Pro Max in RAW Mode
+        Pictures were taken with iPhone 13 Pro Max in RAW Mode.
 
         Edited with Photoshop 2022 
 
