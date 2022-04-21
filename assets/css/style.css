@@ -80,11 +80,7 @@ h1, h2 {
     position: relative;
 }
 
-#cover-text h2,
-h3 {
-    color: white;
-    text-align: center;
-}
+
 
 #hero-image {
     height: 600px;
