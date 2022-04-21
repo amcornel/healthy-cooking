@@ -283,7 +283,7 @@ h1{
 .container {
     color: #ffffff;
     padding: 20px;
-    background-color: #119386;
+    background-color: #06534b;
     text-align: center;
   }
   
@@ -301,7 +301,7 @@ h1{
   }
   
   input[type=submit] {
-    background-color: #119386;
+    background-color: #06534b;
     color: white;
     border: none;
   }
