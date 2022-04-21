@@ -118,9 +118,26 @@ The Company contact details are listed underneath that form
 
 ![Index HTML Validator Result](assets/img/index.html-test-result.webp)
 
+
+            https://amcornel.github.io/healthy-cooking/contact.html final test result for HTML
+
+
+
+![Final HTML Validator Result](assets/img/final-html-validator-result.webp)
+
 #### CSS
 
+
+            https://amcornel.github.io/healthy-cooking/contact.html final test result for CSS
+
+
+
+![final Jigsaw Validator Result CSS](assets/img/jigsaw-validator-final-result.webp)
+
 ## Unfixed Bugs
+
+
+                            None
 
 ## Deployment
 
