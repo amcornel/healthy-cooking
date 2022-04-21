@@ -119,6 +119,40 @@ The Company contact details are listed underneath that form
 
 ## Deployment
 
+The Website was deployed on the 21.04.2022 with Github to GitHub Pages
+
+        open project on GitHub
+
+
+        Click on Settings in the Top Nav Bar
+
+
+
+
+![Github Settings Page](assets/img/git-hub-settings-image.webp)
+
+
+
+
+
+
+
+        Click on Pages in the Side List
+
+
+        choose as branch "main."
+
+
+        click save
+
+
+
+
+![GitHub Deployment Page](assets/img/deployment-page-image.webp)
+
+
+
+
 
 ## Credits
 
