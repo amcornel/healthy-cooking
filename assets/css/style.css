@@ -16,7 +16,8 @@ body {
 /* headings and Logo */
 
 
-h1, h2 {
+h1,
+h2 {
     font-family: 'Anek Gujarati', sans-serif;
     letter-spacing: 6px;
     color: #000000;
@@ -24,7 +25,8 @@ h1, h2 {
 
 }
 
-h1, h2 {
+h1,
+h2 {
     font-size: 175%;
     color: #000000;
 
@@ -136,7 +138,7 @@ h1, h2 {
 
 #idea h2 {
     color: white;
-    background-color:#119386 ;
+    background-color: #119386;
 }
 
 #idea-text {
@@ -193,7 +195,7 @@ h1, h2 {
 
 /*starter page*/
 
-#starter-title  {
+#starter-title {
     font-size: 300%;
 }
 
@@ -205,14 +207,15 @@ h1, h2 {
     margin-left: 20px;
 }
 
-#starter-image  {
+#starter-image {
     height: 500px;
     width: 100%;
     padding: 30px;
     margin-right: 30px;
     background: url('../img/starter-image.webp') no-repeat center center;
 }
-#prepare    {
+
+#prepare {
     font-size: 120%;
     width: 100%;
     padding: 30px;
@@ -220,7 +223,7 @@ h1, h2 {
     margin-right: 30px;
 }
 
-#prepare-text   {
+#prepare-text {
     font-size: 120%;
     width: 100%;
     text-align: center;
@@ -229,11 +232,11 @@ h1, h2 {
 
 /*mains page*/
 
-#mains-title  {
+#mains-title {
     font-size: 300%;
 }
 
-#mains-image  {
+#mains-image {
     height: 600px;
     width: 100%;
     padding: 30px;
@@ -245,10 +248,11 @@ h1, h2 {
 
 /*dessert page*/
 
-#dessert-title  {
+#dessert-title {
     font-size: 300%;
 }
-#dessert-image  {
+
+#dessert-image {
     height: 500px;
     width: 100%;
     padding: 30px;
@@ -258,17 +262,17 @@ h1, h2 {
 
 /* Contact page*/
 
-h1{
+h1 {
     font-size: 200%;
 }
 
-#contact-details  {
+#contact-details {
     color: #119386;
     font-size: 150%;
     text-align: center;
 }
 
-#contact-form  {
+#contact-form {
     color: #000000;
     background-color: #119386;
     text-align: center;
@@ -285,30 +289,32 @@ h1{
     padding: 20px;
     background-color: #06534b;
     text-align: center;
-  }
-  
-  input[type=text], input[type=submit] {
+}
+
+input[type=text],
+input[type=submit] {
     width: 100%;
     padding: 12px;
     margin: 8px 0;
     display: inline-block;
     border: 1px solid #ccc;
     box-sizing: border-box;
-  }
-  
-  input[type=checkbox] {
+}
+
+input[type=checkbox] {
+    background-color: #06534b;
     margin-top: 16px;
-  }
-  
-  input[type=submit] {
+}
+
+input[type=submit] {
     background-color: #06534b;
     color: white;
     border: none;
-  }
-  
-  input[type=submit]:hover {
+}
+
+input[type=submit]:hover {
     opacity: 0.8;
-  }
+}
 
 
 
@@ -318,7 +324,7 @@ h1{
 
 /* Footer*/
 
-footer  {
+footer {
     height: 30px;
     width: 100%;
     background-color: #119386;
@@ -329,9 +335,9 @@ footer  {
 
 }
 
-.social-networks > li {
+.social-networks>li {
     display: inline;
-    
+
 }
 
 .social-networks i {
@@ -340,5 +346,5 @@ footer  {
     padding: 1%;
     color: #ffffff;
     background-color: #119386;
-    
+
 }
