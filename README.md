@@ -63,8 +63,19 @@ Affordable Healthy Cooking is a web page that will help viewers
 The Footer contains Social Media Links. 
 
 ![Social Media Links](assets/img/footer.webp)
+
+
+
             
 ### Starterpage
+
+The Starter page provides a picture of the Starter and an Ingredient List and how to prepare
+The Picture is the central point with the ingredient list on the left Site.
+The Instructions on how to prepare are placed underneath.
+
+![Starter Page Image]()
+
+
 
 ### Mainspage
 
