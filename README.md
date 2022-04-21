@@ -134,6 +134,14 @@ The Company contact details are listed underneath that form
 
 ![final Jigsaw Validator Result CSS](assets/img/jigsaw-validator-final-result.webp)
 
+## Google Developer Tools Testing
+
+
+                check Accebilty with Lighthouse
+
+
+![Lighthouse Testresult](assets/img/lighthouse-result.webp)
+
 ## Unfixed Bugs
 
 
@@ -196,6 +204,8 @@ The Website was deployed on the 21.04.2022 with Github to GitHub Pages
 
         https://tinypng.com/ for compressing Pictures
 
+        https://w3schools.com  how to section provided essential for newsletter form
+
 
 ## Media
 
@@ -203,7 +213,7 @@ The Website was deployed on the 21.04.2022 with Github to GitHub Pages
 
         I produced all the Media.
 
-        Pictures taken with iPhone 13 Pro Max in RAW Mode
+        Pictures were taken with iPhone 13 Pro Max in RAW Mode
 
         Edited with Photoshop 2022 
 
