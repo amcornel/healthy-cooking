@@ -102,6 +102,11 @@ The Instructions on how to prepare are placed underneath, and the ingredient lis
 
 ### Contactpage
 
+The Contact page contains a contact form to send the First and Second Names and the eMail Address with a send button.
+The Company contact details are listed underneath that form
+
+![Contact Page Image](assets/img/contact-page-image.webp)
+
 ## Testing
 
 ### Validator Testing
