@@ -157,7 +157,35 @@ The Website was deployed on the 21.04.2022 with Github to GitHub Pages
 ## Credits
 
 
+        HTML und CSS Das umfassende Handbuch 
+        written by Juergen Wolf and published as
+        Das Standard Werk by Rheinwerk Computing
+        ISBN978-3-8362-8117-1
+
+        was used to clear up misunderstandings or when things not working as attempted
+
+        The Love Running Project walk through as aguide to set up the Nav Bar
+
+        Google Search for project research
+
+        GitHub Docs for basic README.md commands
+
+        README template Love Running for basic structure of README.md
+
+        https://tinypng.com/ for compressing Pictures
+
+
 ## Media
+
+
+
+        I produced all the Media.
+
+        Pictures taken with iPhone 13 Pro Max in RAW Mode
+
+        Edited with Photoshop 2022 
+
+
 
 
 
