@@ -44,11 +44,15 @@
 
     <h1>Want to get in touch with us?</h1>
 
-    <form id="contact-form">
-        <input placeholder="First Name" type="text"/><br>
-        <input placeholder="Second Name" type="text"/><br>
+    <form id="contact-form" action="/action_page.php">
+        <label for="first-name">First Name</label>
+        <input placeholder="First Name" type="text" id="first-name"/><br>
+        <label for="second-name">Second Name</label>
+        <input placeholder="Second Name" type="text" id="second-name"/><br>
+        <label for="email">Enter eMail Address</label>
         <input type="email" placeholder="eMail Address"/><br>
-        <input placeholder="Submit" type="submit"/><br>
+        <label for="submit">Send eMail</label>
+        <input placeholder="Submit" type="submit" id="submit"/><br>
     </form>
 
     
