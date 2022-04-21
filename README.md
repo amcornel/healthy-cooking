@@ -113,6 +113,11 @@ The Company contact details are listed underneath that form
 
 #### HTML
 
+            index.HTML Test passed no errors found
+
+
+![Index HTML Validator Result](assets/img/index.html-test-result.webp)
+
 #### CSS
 
 ## Unfixed Bugs
