@@ -44,9 +44,26 @@ Affordable Healthy Cooking is a web page that will help viewers
 ![Hero-Image](assets/img/hero-image2.webp)
 
 
-    
+    Eat Healthy Section
+
+            This Section explains what we want to achieve. 
+
+![Eat Healthy Goal Section](assets/img/eat-healthy.webp)
 
 
+    How To Prepare Section
+
+            This explains what will be provided to the viewer
+
+![How To Prrepare Section](assets/img/how-to-prepare.webp)
+
+
+### Footer
+
+The Footer contains Social Media Links. 
+
+![Social Media Links](assets/img/footer.webp)
+            
 ### Starterpage
 
 ### Mainspage
