@@ -1,5 +1,7 @@
 # AFFORDABLE HEALTHY COOKING
 
+https://amcornel.github.io/healthy-cooking/
+
 ## Features
 
 
@@ -232,6 +234,8 @@
         https://tinypng.com/ for compressing Pictures
 
         https://w3schools.com  how to section provided parts of the code for the newsletter form
+
+        <form action="https://formdump.codeinstitute.net" method="POST"> was copied out of Coder's Coffeehouse project.
 
 
 ## Media
