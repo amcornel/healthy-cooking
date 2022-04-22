@@ -3,13 +3,13 @@
 ## Features
 
 
-Affordable Healthy Cooking is a web page that will help viewers
- eat healthy without spending a fortune. 
+        Affordable Healthy Cooking is a web page that will help viewers
+        eat healthy without spending a fortune. 
  
- It advises on where to buy products and how to prepare them in a fast and effective
- Way. 
+        It advises on where to buy products and how to prepare them in 
+        a fast and effective Way. 
  
- It provides information on how to prepare a Starter, Main and Dessert.
+        It provides information on how to prepare a Starter, Main and Dessert.
 
 
 
@@ -21,11 +21,11 @@ Affordable Healthy Cooking is a web page that will help viewers
 
     Navigation Bar
 
-            The Navigation Bar is on all 5 pages featured and is fully responsive including the Logo.
+            The Navigation Bar is on all five pages featured and is fully responsive, including the Logo.
 
             This will allow the viewer to navigate easily forward and backwards. 
             It has an active hoover function with an excellent visible background colour. 
-            At anytime, the Viewer knows precisely where he is and what he is about to do
+            At any time, the Viewer knows precisely where he is and what he is about to do
 
 
 
@@ -38,8 +38,10 @@ Affordable Healthy Cooking is a web page that will help viewers
 
         Homepage Image
 
-            The Homepage Image displays tasty, healthy food. It shows the ingredients used in the recipes. 
-            It is the central point on the page and has a zoom-in feature to make it more attractive to the viewer.
+            The Homepage Image displays tasty, healthy food. 
+            It shows the ingredients used in the recipes. 
+            It is the central point on the page and has a 
+            zoom-in feature to make it more attractive to the viewer.
 
 ![Main Image](assets/img/hero-image2.webp)
 
@@ -77,11 +79,11 @@ Affordable Healthy Cooking is a web page that will help viewers
             
 ### Starterpage
 
-The Starter page provides a picture of the Starter and an Ingredient List and how to prepare.
+        The Starter page provides a picture of the Starter and an Ingredient List and how to prepare.
 
-The Picture is the central point.
+        The Picture is the central point.
 
-The Instructions on how to prepare are placed underneath, and the ingredient list is on the left Site.
+        The Instructions on how to prepare are placed underneath, and the ingredient list is on the left Site.
 
 ![Starter Page Image](assets/img/starter-page-image.webp)
 
@@ -89,11 +91,11 @@ The Instructions on how to prepare are placed underneath, and the ingredient lis
 
 ### Mainspage
 
-The Mains page provides a picture of the Mains and an Ingredient List and how to prepare
+        The Mains page provides a picture of the Mains and an Ingredient List and how to prepare
 
-The Picture is the central point.
+        The Picture is the central point.
 
-The Instructions on how to prepare are placed underneath, and the ingredient list is on the left Site.
+        The Instructions on how to prepare are placed underneath, and the ingredient list is on the left Site.
 
 ![Mains Page Image](assets/img/mains-page-image.webp)
 
@@ -101,18 +103,19 @@ The Instructions on how to prepare are placed underneath, and the ingredient lis
 
 ### Dessertpage
 
-The Dessert page provides a picture of the Dessert and an Ingredient List and how to prepare
+        The Dessert page provides a picture of the Dessert and an Ingredient List, and how to prepare
 
-The Picture is the central point.
+        The Picture is the central point.
 
-The Instructions on how to prepare are placed underneath, and the ingredient list is on the left Site.
+        The Instructions on how to prepare are placed underneath, and the ingredient list is on the left Site.
 
 ![Dessert Page Image](assets/img/dessert-page-image.webp)
 
 ### Contactpage
 
-The Contact page contains a contact form to send the First and Second Names and the eMail Address with a send button.
-The Company contact details are listed underneath that form
+        The Contact page contains a contact form to send the First and Second Names 
+        and the eMail Address with a Send button.
+        The Company's contact details are listed underneath that form.
 
 ![Contact Page Image](assets/img/contact-page-image3.webp)
 
@@ -122,7 +125,7 @@ The Company contact details are listed underneath that form
 
 #### HTML
 
-            index.HTML Test passed no errors found
+            index.HTML Test passed. No errors found
 
 
 ![Index HTML Validator Result](assets/img/index.html-test-result.webp)
@@ -158,12 +161,12 @@ The Company contact details are listed underneath that form
 
 ## Deployment
 
-The Website was deployed on the 21.04.2022 with Github to GitHub Pages
+        The Website was deployed on 21.04.2022 with Github to GitHub Pages.
 
-        open project on GitHub
+        Open project on GitHub.
 
 
-        Click on Settings in the Top Nav Bar
+        Click on Settings in the Top Nav Bar.
 
 
 
@@ -176,13 +179,13 @@ The Website was deployed on the 21.04.2022 with Github to GitHub Pages
 
 
 
-        Click on Pages in the Side List
+        Click on Pages in the Side List.
 
 
-        choose as branch "main."
+        Choose as branch "main.".
 
 
-        click save
+        Click save.
 
 
 
@@ -224,7 +227,7 @@ The Website was deployed on the 21.04.2022 with Github to GitHub Pages
 
         Pictures were taken with iPhone 13 Pro Max in RAW Mode.
 
-        Edited with Photoshop 2022 
+        Edited with Photoshop 2022.
 
 
 
