@@ -132,7 +132,7 @@
         and the eMail Address with a Send button.
         The Company's contact details are listed underneath that form.
 
-![Contact Page Image](assets/img/contact-page-image3.webp)
+![Contact Page Image](assets/img/contact-page-image4.webp)
 
 ## Testing
 
