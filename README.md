@@ -87,7 +87,7 @@
 
         The Footer contains Social Media Links. 
 
-![Social Media Links](assets/img/footer.webp)
+![Social Media Links](assets/img/footer-image-2.webp)
 
 
 
