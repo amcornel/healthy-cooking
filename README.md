@@ -14,6 +14,19 @@
 
 
  ![Mock-up-Image](assets/img/mock-up-image.webp)
+
+ ## Colors
+
+                Color Pallet is used throughout the website.
+
+
+![Color Pallette Image](assets/img/color-palette-image.webp)
+
+
+                Contrast Checker passed
+
+
+![Contrast Checker Image](assets/img/contrast-checker-image.webp)
                
         
 
